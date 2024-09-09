@@ -9,6 +9,9 @@ The model is not perfect since i only used part of the dataset to reduce process
 Mode Download Link:
 [Download gpt2-autocomplete.zip](https://drive.google.com/file/d/1-2_Y2ytO2-40xPm3wfeFZWFeP1yAkE42/view?usp=sharing). 
 
+Link to the Dataset on kaggle:[Wikipedia Sentences](https://www.kaggle.com/datasets/mikeortman/wikipedia-sentences). 
+
+
 ### Key Features
 * Model: GPT-2
 * Dataset: A text dataset used to train the model for sentence completion.
