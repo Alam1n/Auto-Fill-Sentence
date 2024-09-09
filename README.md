@@ -6,6 +6,9 @@ It also contains the code for the web app but i can not host it due to the large
 
 The model is not perfect since i only used part of the dataset to reduce processing time. 
 
+Mode Download Link:
+[Download gpt2-autocomplete.zip](https://drive.google.com/file/d/1-2_Y2ytO2-40xPm3wfeFZWFeP1yAkE42/view?usp=sharing). 
+
 ### Key Features
 * Model: GPT-2
 * Dataset: A text dataset used to train the model for sentence completion.
